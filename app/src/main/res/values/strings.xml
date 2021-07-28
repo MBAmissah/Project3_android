@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Project3_android</string>
+    <string name="mapbox_access_token">pk.eyJ1IjoibWJhbWlzc2FoIiwiYSI6ImNrcm1ieDJmejFpMnIydXJ2eWxmMm5wc3IifQ.LxFWlbV0EwDFsnaYKRDboA</string>
+</resources>
